@@ -1,0 +1,5 @@
+﻿  Source.cpp
+F:\gamesProject\VisualProject\TestWINAPI\TestWINAPI\Source.cpp(90,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'DWORD'
+F:\gamesProject\VisualProject\TestWINAPI\TestWINAPI\Source.cpp(97,21): warning C4018: '<': signed/unsigned mismatch
+F:\gamesProject\VisualProject\TestWINAPI\TestWINAPI\Source.cpp(156,20): warning C4018: '<': signed/unsigned mismatch
+  TestWINAPI.vcxproj -> F:\gamesProject\VisualProject\TestWINAPI\Debug\TestWINAPI.exe
