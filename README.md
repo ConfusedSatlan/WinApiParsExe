@@ -8,9 +8,9 @@ To use the program, follow these steps:
 
 1. **Clone the repository:**  
    Clone this repository to your local machine using Git:
-
+```bash
 git clone https://github.com/your-username/WinApiParsExe.git
-
+```
 2. **Build the project:**  
 Open the project in your preferred C++ IDE or compiler that supports WinAPI (such as Visual Studio). Build the project to generate the executable file.
 
